@@ -1,0 +1,16 @@
+D:\Sem6\ProgDesk\no4\no4\bin\Debug\net8.0-windows\no4.exe
+D:\Sem6\ProgDesk\no4\no4\bin\Debug\net8.0-windows\no4.deps.json
+D:\Sem6\ProgDesk\no4\no4\bin\Debug\net8.0-windows\no4.runtimeconfig.json
+D:\Sem6\ProgDesk\no4\no4\bin\Debug\net8.0-windows\no4.dll
+D:\Sem6\ProgDesk\no4\no4\bin\Debug\net8.0-windows\no4.pdb
+D:\Sem6\ProgDesk\no4\no4\obj\Debug\net8.0-windows\no4.Form1.resources
+D:\Sem6\ProgDesk\no4\no4\obj\Debug\net8.0-windows\no4.vbproj.GenerateResource.cache
+D:\Sem6\ProgDesk\no4\no4\obj\Debug\net8.0-windows\no4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem6\ProgDesk\no4\no4\obj\Debug\net8.0-windows\no4.AssemblyInfoInputs.cache
+D:\Sem6\ProgDesk\no4\no4\obj\Debug\net8.0-windows\no4.AssemblyInfo.vb
+D:\Sem6\ProgDesk\no4\no4\obj\Debug\net8.0-windows\no4.vbproj.CoreCompileInputs.cache
+D:\Sem6\ProgDesk\no4\no4\obj\Debug\net8.0-windows\no4.dll
+D:\Sem6\ProgDesk\no4\no4\obj\Debug\net8.0-windows\refint\no4.dll
+D:\Sem6\ProgDesk\no4\no4\obj\Debug\net8.0-windows\no4.pdb
+D:\Sem6\ProgDesk\no4\no4\obj\Debug\net8.0-windows\no4.genruntimeconfig.cache
+D:\Sem6\ProgDesk\no4\no4\obj\Debug\net8.0-windows\ref\no4.dll

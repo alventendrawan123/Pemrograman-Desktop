@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "KonversiBarisBilangan", "KonversiBarisBilangan\KonversiBarisBilangan.vbproj", "{87454836-E685-4C25-A350-56DF87989D12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87454836-E685-4C25-A350-56DF87989D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87454836-E685-4C25-A350-56DF87989D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87454836-E685-4C25-A350-56DF87989D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87454836-E685-4C25-A350-56DF87989D12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D5CD532-2485-45B6-B7A2-C5DC73D103D9}
+	EndGlobalSection
+EndGlobal
