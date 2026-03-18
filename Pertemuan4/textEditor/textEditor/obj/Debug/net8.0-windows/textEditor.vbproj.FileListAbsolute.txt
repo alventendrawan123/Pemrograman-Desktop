@@ -1,0 +1,17 @@
+D:\Sem6\ProgDesk\Pertemuan4\textEditor\textEditor\bin\Debug\net8.0-windows\textEditor.exe
+D:\Sem6\ProgDesk\Pertemuan4\textEditor\textEditor\bin\Debug\net8.0-windows\textEditor.deps.json
+D:\Sem6\ProgDesk\Pertemuan4\textEditor\textEditor\bin\Debug\net8.0-windows\textEditor.runtimeconfig.json
+D:\Sem6\ProgDesk\Pertemuan4\textEditor\textEditor\bin\Debug\net8.0-windows\textEditor.dll
+D:\Sem6\ProgDesk\Pertemuan4\textEditor\textEditor\bin\Debug\net8.0-windows\textEditor.pdb
+D:\Sem6\ProgDesk\Pertemuan4\textEditor\textEditor\obj\Debug\net8.0-windows\textEditor.Form1.resources
+D:\Sem6\ProgDesk\Pertemuan4\textEditor\textEditor\obj\Debug\net8.0-windows\textEditor.vbproj.GenerateResource.cache
+D:\Sem6\ProgDesk\Pertemuan4\textEditor\textEditor\obj\Debug\net8.0-windows\textEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem6\ProgDesk\Pertemuan4\textEditor\textEditor\obj\Debug\net8.0-windows\textEditor.AssemblyInfoInputs.cache
+D:\Sem6\ProgDesk\Pertemuan4\textEditor\textEditor\obj\Debug\net8.0-windows\textEditor.AssemblyInfo.vb
+D:\Sem6\ProgDesk\Pertemuan4\textEditor\textEditor\obj\Debug\net8.0-windows\textEditor.vbproj.CoreCompileInputs.cache
+D:\Sem6\ProgDesk\Pertemuan4\textEditor\textEditor\obj\Debug\net8.0-windows\textEditor.sourcelink.json
+D:\Sem6\ProgDesk\Pertemuan4\textEditor\textEditor\obj\Debug\net8.0-windows\textEditor.dll
+D:\Sem6\ProgDesk\Pertemuan4\textEditor\textEditor\obj\Debug\net8.0-windows\refint\textEditor.dll
+D:\Sem6\ProgDesk\Pertemuan4\textEditor\textEditor\obj\Debug\net8.0-windows\textEditor.pdb
+D:\Sem6\ProgDesk\Pertemuan4\textEditor\textEditor\obj\Debug\net8.0-windows\textEditor.genruntimeconfig.cache
+D:\Sem6\ProgDesk\Pertemuan4\textEditor\textEditor\obj\Debug\net8.0-windows\ref\textEditor.dll

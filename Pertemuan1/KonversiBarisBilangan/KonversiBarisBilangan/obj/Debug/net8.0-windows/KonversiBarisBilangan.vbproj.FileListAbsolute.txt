@@ -1,0 +1,16 @@
+D:\Sem6\ProgDesk\KonversiBarisBilangan\KonversiBarisBilangan\bin\Debug\net8.0-windows\KonversiBarisBilangan.exe
+D:\Sem6\ProgDesk\KonversiBarisBilangan\KonversiBarisBilangan\bin\Debug\net8.0-windows\KonversiBarisBilangan.deps.json
+D:\Sem6\ProgDesk\KonversiBarisBilangan\KonversiBarisBilangan\bin\Debug\net8.0-windows\KonversiBarisBilangan.runtimeconfig.json
+D:\Sem6\ProgDesk\KonversiBarisBilangan\KonversiBarisBilangan\bin\Debug\net8.0-windows\KonversiBarisBilangan.dll
+D:\Sem6\ProgDesk\KonversiBarisBilangan\KonversiBarisBilangan\bin\Debug\net8.0-windows\KonversiBarisBilangan.pdb
+D:\Sem6\ProgDesk\KonversiBarisBilangan\KonversiBarisBilangan\obj\Debug\net8.0-windows\KonversiBarisBilangan.Form1.resources
+D:\Sem6\ProgDesk\KonversiBarisBilangan\KonversiBarisBilangan\obj\Debug\net8.0-windows\KonversiBarisBilangan.vbproj.GenerateResource.cache
+D:\Sem6\ProgDesk\KonversiBarisBilangan\KonversiBarisBilangan\obj\Debug\net8.0-windows\KonversiBarisBilangan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem6\ProgDesk\KonversiBarisBilangan\KonversiBarisBilangan\obj\Debug\net8.0-windows\KonversiBarisBilangan.AssemblyInfoInputs.cache
+D:\Sem6\ProgDesk\KonversiBarisBilangan\KonversiBarisBilangan\obj\Debug\net8.0-windows\KonversiBarisBilangan.AssemblyInfo.vb
+D:\Sem6\ProgDesk\KonversiBarisBilangan\KonversiBarisBilangan\obj\Debug\net8.0-windows\KonversiBarisBilangan.vbproj.CoreCompileInputs.cache
+D:\Sem6\ProgDesk\KonversiBarisBilangan\KonversiBarisBilangan\obj\Debug\net8.0-windows\KonversiBarisBilangan.dll
+D:\Sem6\ProgDesk\KonversiBarisBilangan\KonversiBarisBilangan\obj\Debug\net8.0-windows\refint\KonversiBarisBilangan.dll
+D:\Sem6\ProgDesk\KonversiBarisBilangan\KonversiBarisBilangan\obj\Debug\net8.0-windows\KonversiBarisBilangan.pdb
+D:\Sem6\ProgDesk\KonversiBarisBilangan\KonversiBarisBilangan\obj\Debug\net8.0-windows\KonversiBarisBilangan.genruntimeconfig.cache
+D:\Sem6\ProgDesk\KonversiBarisBilangan\KonversiBarisBilangan\obj\Debug\net8.0-windows\ref\KonversiBarisBilangan.dll

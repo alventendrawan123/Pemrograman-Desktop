@@ -1,0 +1,16 @@
+D:\Sem6\ProgDesk\Konversi_Suhu3\Konversi_Suhu3\bin\Debug\net8.0-windows\Konversi_Suhu3.exe
+D:\Sem6\ProgDesk\Konversi_Suhu3\Konversi_Suhu3\bin\Debug\net8.0-windows\Konversi_Suhu3.deps.json
+D:\Sem6\ProgDesk\Konversi_Suhu3\Konversi_Suhu3\bin\Debug\net8.0-windows\Konversi_Suhu3.runtimeconfig.json
+D:\Sem6\ProgDesk\Konversi_Suhu3\Konversi_Suhu3\bin\Debug\net8.0-windows\Konversi_Suhu3.dll
+D:\Sem6\ProgDesk\Konversi_Suhu3\Konversi_Suhu3\bin\Debug\net8.0-windows\Konversi_Suhu3.pdb
+D:\Sem6\ProgDesk\Konversi_Suhu3\Konversi_Suhu3\obj\Debug\net8.0-windows\Konversi_Suhu3.Form1.resources
+D:\Sem6\ProgDesk\Konversi_Suhu3\Konversi_Suhu3\obj\Debug\net8.0-windows\Konversi_Suhu3.vbproj.GenerateResource.cache
+D:\Sem6\ProgDesk\Konversi_Suhu3\Konversi_Suhu3\obj\Debug\net8.0-windows\Konversi_Suhu3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem6\ProgDesk\Konversi_Suhu3\Konversi_Suhu3\obj\Debug\net8.0-windows\Konversi_Suhu3.AssemblyInfoInputs.cache
+D:\Sem6\ProgDesk\Konversi_Suhu3\Konversi_Suhu3\obj\Debug\net8.0-windows\Konversi_Suhu3.AssemblyInfo.vb
+D:\Sem6\ProgDesk\Konversi_Suhu3\Konversi_Suhu3\obj\Debug\net8.0-windows\Konversi_Suhu3.vbproj.CoreCompileInputs.cache
+D:\Sem6\ProgDesk\Konversi_Suhu3\Konversi_Suhu3\obj\Debug\net8.0-windows\Konversi_Suhu3.dll
+D:\Sem6\ProgDesk\Konversi_Suhu3\Konversi_Suhu3\obj\Debug\net8.0-windows\refint\Konversi_Suhu3.dll
+D:\Sem6\ProgDesk\Konversi_Suhu3\Konversi_Suhu3\obj\Debug\net8.0-windows\Konversi_Suhu3.pdb
+D:\Sem6\ProgDesk\Konversi_Suhu3\Konversi_Suhu3\obj\Debug\net8.0-windows\Konversi_Suhu3.genruntimeconfig.cache
+D:\Sem6\ProgDesk\Konversi_Suhu3\Konversi_Suhu3\obj\Debug\net8.0-windows\ref\Konversi_Suhu3.dll
