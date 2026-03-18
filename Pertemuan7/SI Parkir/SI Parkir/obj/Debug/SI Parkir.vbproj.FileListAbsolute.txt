@@ -1,0 +1,47 @@
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\bin\Debug\SI Parkir.exe.config
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\bin\Debug\SI Parkir.exe
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\bin\Debug\SI Parkir.pdb
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\bin\Debug\SI Parkir.xml
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\SI Parkir.vbproj.AssemblyReference.cache
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\SI_Parkir.Resources.resources
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\SI Parkir.vbproj.GenerateResource.cache
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\SI Parkir.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\SI Parkir.exe
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\SI Parkir.xml
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\SI Parkir.pdb
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\bin\Debug\MySql.Data.dll
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\bin\Debug\System.Memory.dll
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\bin\Debug\System.Numerics.Vectors.dll
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\bin\Debug\System.Buffers.dll
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\bin\Debug\MySql.Data.xml
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\SI Parkir.vbproj.Up2Date
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\SI_Parkir.frmLogin.resources
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\SI_Parkir.frmProfil.resources
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\SI_Parkir.formUtama.resources
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\SI_Parkir.laporan.resources
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\SI_Parkir.langganan.resources
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\bin\Debug\SI Parkir.exe.config
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\bin\Debug\SI Parkir.exe
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\bin\Debug\SI Parkir.pdb
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\bin\Debug\SI Parkir.xml
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\bin\Debug\System.Memory.dll
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\bin\Debug\System.Numerics.Vectors.dll
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\bin\Debug\System.Buffers.dll
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\bin\Debug\MySql.Data.xml
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\obj\Debug\SI Parkir.vbproj.AssemblyReference.cache
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\obj\Debug\SI Parkir.exe.config
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\obj\Debug\SI_Parkir.frmLogin.resources
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\obj\Debug\SI_Parkir.frmProfil.resources
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\obj\Debug\SI_Parkir.formUtama.resources
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\obj\Debug\SI_Parkir.laporan.resources
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\obj\Debug\SI_Parkir.langganan.resources
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\obj\Debug\SI_Parkir.Resources.resources
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\obj\Debug\SI Parkir.vbproj.GenerateResource.cache
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\obj\Debug\SI Parkir.vbproj.CoreCompileInputs.cache
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\obj\Debug\SI Parkir.vbproj.Up2Date
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\obj\Debug\SI Parkir.exe
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\obj\Debug\SI Parkir.xml
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\obj\Debug\SI Parkir.pdb
+D:\Sem6\ProgDesk\Pertemuan7\SI Parkir\SI Parkir\obj\Debug\SI Parkir.vbprojResolveAssemblyReference.cache
