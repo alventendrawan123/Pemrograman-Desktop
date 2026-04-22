@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sem6\\ProgDesk\\Pertemuan4\\textEditor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F06CD4F-B22C-4DEB-B221-6F5786F7DBE0}|textEditor\\textEditor.vbproj|d:\\sem6\\progdesk\\pertemuan4\\texteditor\\texteditor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1F06CD4F-B22C-4DEB-B221-6F5786F7DBE0}|textEditor\\textEditor.vbproj|solutionrelative:texteditor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F06CD4F-B22C-4DEB-B221-6F5786F7DBE0}|textEditor\\textEditor.vbproj|d:\\sem6\\progdesk\\pertemuan4\\texteditor\\texteditor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1F06CD4F-B22C-4DEB-B221-6F5786F7DBE0}|textEditor\\textEditor.vbproj|solutionrelative:texteditor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Sem6\\ProgDesk\\Pertemuan4\\textEditor\\textEditor\\Form1.vb",
+              "RelativeDocumentMoniker": "textEditor\\Form1.vb",
+              "ToolTip": "D:\\Sem6\\ProgDesk\\Pertemuan4\\textEditor\\textEditor\\Form1.vb",
+              "RelativeToolTip": "textEditor\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-24T16:47:58.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Sem6\\ProgDesk\\Pertemuan4\\textEditor\\textEditor\\Form1.vb",
+              "RelativeDocumentMoniker": "textEditor\\Form1.vb",
+              "ToolTip": "D:\\Sem6\\ProgDesk\\Pertemuan4\\textEditor\\textEditor\\Form1.vb [Design]",
+              "RelativeToolTip": "textEditor\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-24T16:47:18.657Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

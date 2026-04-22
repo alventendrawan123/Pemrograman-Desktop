@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sem6\\ProgDesk\\Konversi_Suhu2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E58A414-6663-4719-B3C7-A24FE1E6BFB3}|WinFormsApp1\\WinFormsApp1.vbproj|d:\\sem6\\progdesk\\konversi_suhu2\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5E58A414-6663-4719-B3C7-A24FE1E6BFB3}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E58A414-6663-4719-B3C7-A24FE1E6BFB3}|WinFormsApp1\\WinFormsApp1.vbproj|d:\\sem6\\progdesk\\konversi_suhu2\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5E58A414-6663-4719-B3C7-A24FE1E6BFB3}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Sem6\\ProgDesk\\Konversi_Suhu2\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.vb",
+              "ToolTip": "D:\\Sem6\\ProgDesk\\Konversi_Suhu2\\WinFormsApp1\\Form1.vb",
+              "RelativeToolTip": "WinFormsApp1\\Form1.vb",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-03T07:00:57.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Sem6\\ProgDesk\\Konversi_Suhu2\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.vb",
+              "ToolTip": "D:\\Sem6\\ProgDesk\\Konversi_Suhu2\\WinFormsApp1\\Form1.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-03T06:44:12.972Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

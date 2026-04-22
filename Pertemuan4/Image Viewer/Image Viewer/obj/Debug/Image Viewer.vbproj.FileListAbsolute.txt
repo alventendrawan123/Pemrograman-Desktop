@@ -1,0 +1,14 @@
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 4\Image Viewer\Image Viewer\bin\Debug\Image Viewer.exe.config
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 4\Image Viewer\Image Viewer\bin\Debug\Image Viewer.exe
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 4\Image Viewer\Image Viewer\bin\Debug\Image Viewer.pdb
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 4\Image Viewer\Image Viewer\bin\Debug\Image Viewer.xml
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 4\Image Viewer\Image Viewer\bin\Debug\gma.Drawing.ImageInfo.dll
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 4\Image Viewer\Image Viewer\obj\Debug\Image Viewer.vbproj.AssemblyReference.cache
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 4\Image Viewer\Image Viewer\obj\Debug\Image_Viewer.Form1.resources
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 4\Image Viewer\Image Viewer\obj\Debug\Image_Viewer.Resources.resources
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 4\Image Viewer\Image Viewer\obj\Debug\Image Viewer.vbproj.GenerateResource.cache
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 4\Image Viewer\Image Viewer\obj\Debug\Image Viewer.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 4\Image Viewer\Image Viewer\obj\Debug\Image Vi.94EEF355.Up2Date
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 4\Image Viewer\Image Viewer\obj\Debug\Image Viewer.exe
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 4\Image Viewer\Image Viewer\obj\Debug\Image Viewer.xml
+D:\Kuliah\Pemrograman Desktop\#Folder Pertemuan 4\Image Viewer\Image Viewer\obj\Debug\Image Viewer.pdb
